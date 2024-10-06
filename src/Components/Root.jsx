@@ -1,4 +1,3 @@
-<script src="http://localhost:8097" />;
 import React, { useState } from 'react';
 import { View } from 'react-native';
 import Game from './Game/Game';
